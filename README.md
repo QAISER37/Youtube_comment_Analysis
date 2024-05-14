@@ -17,7 +17,7 @@ The analysis includes sentiment analysis, topic modeling, and engagement metrics
 1. Clone the repository.
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Run the Jupyter notebooks to replicate the analysis and explore the insights.
-4. Refer to the documentation and comments within the code for detailed explanations.
+4. Refer to the comments within the code for detailed explanations.
 
 #### Contributing:
 - Contributions and suggestions are welcome! Please fork the repository, make your changes, and submit a pull request.
